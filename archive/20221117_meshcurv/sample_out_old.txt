@@ -1,0 +1,164 @@
+[ Info: MEDYAN: old
+[ Info: Start running
+[ Info: Initial mech...
+[ Info: Adding for 0 diffusing molecules.
+[ Info: f=1 t=0.01
+[ Info: Doing mech
+  1.531864 seconds (8.58 M allocations: 247.898 MiB, 2.61% gc time, 37.27% compilation time)
+[ Info: Min edge length is 17.67407527964325
+[ Info: f=2 t=0.02
+[ Info: Doing mech
+  0.765498 seconds (5.90 M allocations: 152.458 MiB, 4.41% gc time)
+[ Info: Min edge length is 17.672323223819003
+[ Info: f=3 t=0.03
+[ Info: Doing mech
+  0.840709 seconds (6.39 M allocations: 165.185 MiB, 3.93% gc time)
+[ Info: Min edge length is 17.6706011683225
+[ Info: f=4 t=0.04
+[ Info: Doing mech
+  0.652323 seconds (4.95 M allocations: 128.392 MiB, 4.69% gc time)
+[ Info: Min edge length is 17.66882081155711
+[ Info: f=5 t=0.05
+[ Info: Doing mech
+  0.834760 seconds (6.53 M allocations: 169.295 MiB, 3.41% gc time)
+[ Info: Min edge length is 17.667052917233725
+[ Info: f=6 t=0.06
+[ Info: Doing mech
+  0.290418 seconds (2.35 M allocations: 62.224 MiB)
+[ Info: Min edge length is 17.665285085936155
+[ Info: f=7 t=0.07
+[ Info: Doing mech
+  0.837464 seconds (6.40 M allocations: 166.988 MiB, 3.80% gc time)
+[ Info: Min edge length is 17.663517148337732
+[ Info: f=8 t=0.08
+[ Info: Doing mech
+  0.501749 seconds (3.60 M allocations: 94.781 MiB, 6.28% gc time)
+[ Info: Min edge length is 17.661708582123833
+[ Info: f=9 t=0.09
+[ Info: Doing mech
+  0.144715 seconds (1.15 M allocations: 31.707 MiB)
+[ Info: Min edge length is 17.659938153578704
+[ Info: f=10 t=0.1
+[ Info: Doing mech
+  0.820683 seconds (6.33 M allocations: 167.077 MiB, 3.81% gc time)
+[ Info: Min edge length is 17.65816857981475
+[ Info: f=11 t=0.11
+[ Info: Doing mech
+  0.675488 seconds (5.13 M allocations: 135.353 MiB, 4.67% gc time)
+[ Info: Min edge length is 17.656400563875213
+[ Info: f=12 t=0.12
+[ Info: Doing mech
+  0.320183 seconds (2.55 M allocations: 68.835 MiB)
+[ Info: Min edge length is 17.654632400904468
+[ Info: f=13 t=0.13
+[ Info: Doing mech
+  0.483406 seconds (3.55 M allocations: 94.747 MiB, 6.53% gc time)
+[ Info: Min edge length is 17.652864162159073
+[ Info: f=14 t=0.14
+[ Info: Doing mech
+  0.542198 seconds (4.29 M allocations: 115.618 MiB)
+[ Info: Min edge length is 17.651097341757687
+[ Info: f=15 t=0.15
+[ Info: Doing mech
+  0.209553 seconds (1.38 M allocations: 38.353 MiB, 13.92% gc time)
+[ Info: Min edge length is 17.64932911954015
+[ Info: f=16 t=0.16
+[ Info: Doing mech
+  0.353390 seconds (2.69 M allocations: 73.021 MiB)
+[ Info: Min edge length is 17.647560539660706
+[ Info: f=17 t=0.17
+[ Info: Doing mech
+  0.963288 seconds (7.15 M allocations: 198.111 MiB, 2.54% gc time, 3.49% compilation time)
+[ Info: Min edge length is 17.645792368547998
+[ Info: f=18 t=0.18
+[ Info: Doing mech
+  0.302534 seconds (2.05 M allocations: 57.776 MiB, 10.11% gc time)
+[ Info: Min edge length is 17.64402338090016
+[ Info: f=19 t=0.19
+[ Info: Doing mech
+  0.389072 seconds (2.99 M allocations: 83.821 MiB)
+[ Info: Min edge length is 17.642255226487634
+[ Info: f=20 t=0.2
+[ Info: Doing mech
+  0.444833 seconds (3.03 M allocations: 85.229 MiB, 7.01% gc time)
+[ Info: Min edge length is 17.64056254391297
+[ Info: f=21 t=0.21
+[ Info: Doing mech
+  0.288006 seconds (2.21 M allocations: 62.957 MiB)
+[ Info: Min edge length is 17.638811877412344
+[ Info: f=22 t=0.22
+[ Info: Doing mech
+  0.482217 seconds (3.33 M allocations: 94.039 MiB, 5.75% gc time)
+[ Info: Min edge length is 17.637015511059186
+[ Info: f=23 t=0.23
+[ Info: Doing mech
+  1.324403 seconds (10.40 M allocations: 290.090 MiB, 1.82% gc time)
+[ Info: Min edge length is 1.4143655066895493
+[ Info: f=24 t=0.24
+[ Info: Doing mech
+  0.221955 seconds (1.67 M allocations: 48.559 MiB)
+[ Info: Min edge length is 17.633540406270317
+[ Info: f=25 t=0.25
+[ Info: Doing mech
+  0.253566 seconds (2.00 M allocations: 57.985 MiB)
+[ Info: Min edge length is 17.63199908223432
+[ Info: f=26 t=0.26
+[ Info: Doing mech
+  0.389034 seconds (2.91 M allocations: 83.933 MiB)
+[ Info: Min edge length is 17.630204958918974
+[ Info: f=27 t=0.27
+[ Info: Doing mech
+  0.419744 seconds (3.05 M allocations: 88.103 MiB, 5.80% gc time)
+[ Info: Min edge length is 17.628436596765198
+[ Info: f=28 t=0.28
+[ Info: Doing mech
+  1.073254 seconds (7.77 M allocations: 214.928 MiB, 1.91% gc time)
+[ Info: Min edge length is 17.62666843072684
+[ Info: f=29 t=0.29
+[ Info: Doing mech
+  0.650025 seconds (4.89 M allocations: 134.047 MiB, 3.60% gc time)
+[ Info: Min edge length is 17.624947992455475
+[ Info: f=30 t=0.3
+[ Info: Doing mech
+  1.053719 seconds (8.28 M allocations: 222.011 MiB, 2.38% gc time)
+[ Info: Min edge length is 17.623156653318865
+[ Info: f=31 t=0.31
+[ Info: Doing mech
+  1.130906 seconds (8.83 M allocations: 237.500 MiB, 3.75% gc time)
+[ Info: Min edge length is 17.621387635787826
+[ Info: f=32 t=0.32
+[ Info: Doing mech
+  5.782385 seconds (47.73 M allocations: 1.215 GiB, 2.24% gc time)
+[ Info: Min edge length is 5.993221848713965
+[ Info: f=33 t=0.33
+[ Info: Doing mech
+  1.811528 seconds (14.53 M allocations: 374.640 MiB, 2.48% gc time)
+[ Info: Min edge length is 17.61786304021517
+[ Info: f=34 t=0.34
+[ Info: Doing mech
+  4.250468 seconds (35.06 M allocations: 877.845 MiB, 1.95% gc time)
+[ Info: Min edge length is 12.114836604570051
+[ Info: f=35 t=0.35000000000000003
+[ Info: Doing mech
+  2.825026 seconds (23.74 M allocations: 586.140 MiB, 2.31% gc time)
+[ Info: Min edge length is 17.61430498823378
+[ Info: f=36 t=0.36
+[ Info: Doing mech
+  2.611355 seconds (21.90 M allocations: 542.123 MiB, 2.40% gc time)
+[ Info: Min edge length is 15.850439794090725
+[ Info: f=37 t=0.37
+[ Info: Doing mech
+  2.050436 seconds (17.35 M allocations: 430.984 MiB, 2.17% gc time)
+[ Info: Min edge length is 6.594805246418862
+[ Info: f=38 t=0.38
+[ Info: Doing mech
+  3.777822 seconds (31.83 M allocations: 778.462 MiB, 2.28% gc time)
+[ Info: Min edge length is 0.6360135269426251
+[ Info: f=39 t=0.39
+[ Info: Doing mech
+  2.481435 seconds (20.73 M allocations: 505.988 MiB, 2.56% gc time)
+[ Info: Min edge length is 5.639179050402692
+[ Info: f=40 t=0.4
+[ Info: Doing mech
+  1.127348 seconds (9.30 M allocations: 228.473 MiB, 2.05% gc time)
+[ Info: Min edge length is 17.605472961041354
