@@ -13,7 +13,7 @@ function prepare()
     if ARGS[1] == "old"
         prepare_ver("72fa5f1cd5b64d5ea2ab494e1394c3bd6053b567")
     elseif ARGS[1] == "new"
-        prepare_ver("90ee5c74d638a6a314c3ddc46f7015437e503be4")
+        prepare_ver("52da1a000abda1b97eadc35d7b75403f700696e7")
     else
         error("Unrecognized: $(ARGS[1])")
     end
