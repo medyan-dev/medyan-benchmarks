@@ -1,0 +1,89 @@
+{
+    "medyan": {
+        "version": "0.13.0",
+        "medyanInfo": {
+            "title": "MEDYAN.jl",
+            "version": "0.2.1",
+            "sourceCodeUrl": "https://github.com/medyan-dev/MEDYAN.jl"
+        },
+        "size": {
+            "x(nm)": 2000,
+            "y(nm)": 2000,
+            "z(nm)": 7500
+        },
+        "chem_grid_size": {
+            "nx": 4,
+            "ny": 4,
+            "nz": 15,
+            "voxel_x(nm)": 500,
+            "voxel_y(nm)": 500,
+            "voxel_z(nm)": 500
+        },
+        "diffusing_species": [
+            {
+                "name": "A"
+            },
+            {
+                "name": "B"
+            },
+            {
+                "name": "L"
+            }
+        ],
+        "fila": [
+            {
+                "name": "actin",
+                "radius(nm)": 3,
+                "monomerstates": [
+                    "middle",
+                    "weak_bound",
+                    "strong_bound",
+                    "plusend",
+                    "minusend",
+                    "boundARP23",
+                    "freeARP23",
+                    "bound"
+                ]
+            },
+            {
+                "name": "myo",
+                "radius(nm)": 15,
+                "monomerstates": [
+                    "myo"
+                ]
+            }
+        ],
+        "links": [
+            {
+                "name": "myo_fil_end",
+                "places": [
+                    "fila_mono"
+                ]
+            },
+            {
+                "name": "myo_motor",
+                "places": [
+                    "fila_mono",
+                    "fila_mono"
+                ]
+            },
+            {
+                "name": "crosslinker",
+                "places": [
+                    "fila_mono",
+                    "fila_mono"
+                ]
+            },
+            {
+                "name": "brancher",
+                "places": [
+                    "fila_mono",
+                    "fila_mono"
+                ]
+            }
+        ]
+    },
+    "number_of_branches_added": 705,
+    "number_of_myosin_filaments_added": 600,
+    "treadmilling_rate_factor": 1
+}

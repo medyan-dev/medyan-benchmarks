@@ -1,0 +1,2 @@
+# Ignore all statprof directories anywhere in the repository
+**/statprof/

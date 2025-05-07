@@ -1,0 +1,12 @@
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MEDYAN = "69fdc21c-fecc-480d-9355-06e330c4ea63"
+MEDYANSimRunner = "b58a3b99-22e3-44d1-b5ea-258f082a6fe8"
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Setfield = "efcf1570-3423-57d1-acb7-fd33fddbac46"
+SmallZarrGroups = "d423b6e5-1c84-4ae2-8d2d-b903aee15ac7"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+[sources]
+MEDYAN = {path = "../../MEDYAN.jl"}
