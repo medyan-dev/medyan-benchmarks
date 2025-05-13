@@ -47,7 +47,7 @@ const myo_params = MyosinParameters(;
         g_tol=5.0,
         max_cylinder_force=6000.0,
         nthreads=4,
-        cylinder_skin_radius=15.0
+        cylinder_skin_radius=7.0
     ),
     treadmilling_rate_factor=1.0,
 )

@@ -122,7 +122,7 @@ function make_context(p::MyosinParameters; grid = CubicGrid((12,2,2),500.0), con
         spacing= myo_spacing,
         klength= 10*100.0,
         kangle= 1,
-        numpercylinder= 1000,
+        numpercylinder= 11,
         max_num_unmin_end= 1,
     ))
 
