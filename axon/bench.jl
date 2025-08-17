@@ -57,7 +57,7 @@ group = SmallZarrGroups.load_zip(joinpath(@__DIR__,"traj", MEDYANSimRunner.step_
 function bench(c; seed=1234)
     Random.seed!(seed)
     MEDYAN.load_snapshot!(c, group["medyan"]::ZGroup)
-    for step in 1:5
+    for step in 1:50
         @info "$step mechanics"
         MEDYAN.minimize_energy!(c; brownian_motion_time=Δt)
         @info "$step chemistry"
@@ -66,4 +66,4 @@ function bench(c; seed=1234)
     c
 end
 
-# @time bench(c)
+@time bench(c)
